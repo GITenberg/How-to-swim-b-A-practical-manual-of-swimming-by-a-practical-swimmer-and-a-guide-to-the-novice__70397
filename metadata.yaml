@@ -1,0 +1,34 @@
+_repo: How-to-swim-b-A-practical-manual-of-swimming-by-a-practical-swimmer-and-a-guide-to-the-novice__70397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sterrett, James H.
+    gutenberg_agent_id: '55741'
+    url: http://www.gutenberg.org/2009/agents/55741
+description: ''
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70397'
+language: en
+pgterms:marc904: https://archive.org/details/howtoswimpractic00ster/page/n7/mode/2up
+pgterms:marc905: 20211031071315sterrett
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: Bob Taylor, Sonya Schermann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bAmerican Sport Publishing Company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Spalding's athletic library; no. 37R.
+subjects:
+- !lcsh 'Swimming'
+- !lcc 'GV'
+- GITenberg
+title: 'How to swim : $b A practical manual of swimming by a practical swimmer and
+  a guide to the novice as well as the expert showing the easiest methods of learning
+  to swim, dive and float, various kinds of strokes, with directions and illustrations
+  for acquiring the crawl and trudge-crawl strokes. Also a chapter on modern life-saving,
+  and one for women and girl swimmers.'
+url: http://www.gutenberg.org/ebooks/70397
