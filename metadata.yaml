@@ -1,11 +1,16 @@
 _repo: How-to-swim-b-A-practical-manual-of-swimming-by-a-practical-swimmer-and-a-guide-to-the-novice__70397
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70397-h/images/cover.jpg
 creator:
   author:
     agent_name: Sterrett, James H.
     gutenberg_agent_id: '55741'
     url: http://www.gutenberg.org/2009/agents/55741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70397#How-to-swim-b-A-practical-manual-of-swimming-by-a-practical-swimmer-and-a-guide-to-the-novice_
 gutenberg_issued: '2023-03-27'
 identifiers:
   gutenberg: '70397'
